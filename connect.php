@@ -1,8 +1,8 @@
 <?php
 // Database connection
-$host = 'localhost';
-$user = 'root';          // replace with your DB username
-$password = '';          // replace with your DB password
+$host = 'sql100.infinityfree.com';
+$user = 'if0_40541163';          // replace with your DB username
+$password = 'shamrao@2003';          // replace with your DB password
 $dbname = 'if0_40541163_artecert';    // replace with your DB name
 
 $conn = new mysqli($host, $user, $password, $dbname);
